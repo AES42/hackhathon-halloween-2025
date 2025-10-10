@@ -2,7 +2,7 @@
 
 # Hackathon 42 Rio — Construindo o Futuro da Comunidade
 
-O **Hackathon 42 Rio** tem como objetivo estimular a criação de soluções que fortaleçam o ecossistema da 42, tornando nossa escola um espaço vivo de experimentação, integração e inovação contínua.  
+O **Hackathon 42 Rio** tem como objetivo estimular a criação de soluções que fortaleçam o ecossistema da 42, tornando nossa escola um espaço vivo de experimentação, integração e inovação contínua.
 
 Os projetos podem seguir **duas grandes trilhas temáticas**, que representam diferentes formas de contribuir com o futuro da comunidade:
 
@@ -10,28 +10,22 @@ Os projetos podem seguir **duas grandes trilhas temáticas**, que representam di
 
 ## ⚙️ Trilha 1 — Composability
 
-Crie soluções que **se integrem com o ecossistema da 42**.  
+Crie soluções que **se integrem com o ecossistema da 42**.
 Essa trilha é voltada para quem quer construir ferramentas, bots, automações ou sistemas que **conversem com as plataformas já existentes** (Intra, Discord, Starship, planilhas, etc.) e otimizem o funcionamento do campus.
 
-### 🧩 Exemplos de dores atuais:
-- **Tickets:** hoje o sistema de tickets é simples e feito via Discord; o cadete não tem histórico e o controle fica apenas com a staff.  
-- **Presença:** eventos e atividades extras não são registrados na Intra, por falta de uma forma confiável de validação.  
-- **Horas de bolsistas e presença física:** o controle é feito apenas por logs, sem confirmação automática de permanência no campus.  
-- **Documentação:** há uma página no Starship, mas parte das informações se perde. Reuniões importantes não são registradas — seria útil um bot que gravasse, resumisse e publicasse versões revisáveis em uma central.
-
-🔗 **Leia mais sobre essa trilha:** [Trilha de Composability — README](./TRILHA_COMPOSABILITY.md)
+🔗 **Leia mais sobre essa trilha:** [Trilha de Composability — README](./composability/README.md)
 
 ---
 
 ## 💡 Trilha 2 — Inovação
 
-Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.  
+Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.
 Essa trilha é voltada para quem quer propor novas experiências, plataformas e ideias que ampliem o impacto da comunidade.
 
 ### 💬 Exemplo de dor atual:
 - **Plataforma de Ideias:** muitas sugestões surgem em conversas informais e se perdem por falta de um espaço estruturado para propor, votar e acompanhar melhorias.
 
-🔗 **Leia mais sobre essa trilha:** [Trilha de Inovação — README](./TRILHA_INOVACAO.md)
+🔗 **Leia mais sobre essa trilha:** [Trilha de Inovação — README](./open-innovation/README.md)
 
 ---
 
@@ -50,8 +44,8 @@ Os projetos serão avaliados com base em quatro dimensões principais:
 
 ## 🎁 Prêmios
 
-- 🥇 **1º Lugar:** prêmio surpresa + destaque oficial nas comunicações da 42 Rio.  
-- 🥈 **2º Lugar:** menção honrosa e destaque na plataforma da comunidade.  
+- 🥇 **1º Lugar:** prêmio surpresa + destaque oficial nas comunicações da 42 Rio.
+- 🥈 **2º Lugar:** menção honrosa e destaque na plataforma da comunidade.
 
 Além disso, as melhores soluções poderão ser **aplicadas oficialmente no campus**, com suporte do Núcleo de Inovação Aberta.
 
@@ -59,8 +53,8 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 
 ## 📦 Como receber o prêmio
 
-- A equipe vencedora deverá indicar um representante para o recebimento.  
-- O prêmio será entregue presencialmente no campus (ou conforme instrução oficial da equipe organizadora).  
+- A equipe vencedora deverá indicar um representante para o recebimento.
+- O prêmio será entregue presencialmente no campus (ou conforme instrução oficial da equipe organizadora).
 - Em caso de projetos colaborativos de alto impacto, as equipes poderão ser convidadas a continuar o desenvolvimento com apoio da staff.
 
 ---
@@ -79,8 +73,8 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 ## ✨ Conclusão
 
 As duas trilhas se complementam:
-- A **Composability** amplia o que já existe — criando pontes e automações dentro do ecossistema da 42.  
-- A **Inovação** cria o novo — experiências, plataformas e ideias que transformam o modo como vivemos a escola.  
+- A **Composability** amplia o que já existe — criando pontes e automações dentro do ecossistema da 42.
+- A **Inovação** cria o novo — experiências, plataformas e ideias que transformam o modo como vivemos a escola.
 
 Ambas partem do mesmo princípio: **a 42 como um laboratório vivo de inovação**, onde cada cadete é criador de soluções reais.
 
