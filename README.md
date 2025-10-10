@@ -60,5 +60,14 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 
 | Data | Hora | Atividade |
 |------|------|-----------|
+|31/10| 15:00 | Workshop sobre organização e idealização de projetos |
+|31/10| 17:00 | Papo tech sobre ferramentas e APIs disponíveis |
 |31/10| 18:00 | Início da festa de Halloween |
 |31/10| 21:00 | Abertura oficial e início do hackathon |
+|01/11| 11:00 | touchpoint com mentores |
+|01/11| 18:00 | touchpoint com mentores |
+|02/11| 11:00 | touchpoint com mentores |
+|02/11| 18:00 | touchpoint com mentores |
+|02/11| 23:42 | Encerramento do envio de projetos |
+|04/11| 19:00 | Início das apresentações finais |
+|04/11| 21:00 | Anúncio dos vencedores e encerramento do evento |
