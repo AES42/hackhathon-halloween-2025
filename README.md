@@ -39,8 +39,8 @@ Os projetos serão avaliados com base em quatro dimensões principais:
 
 ## 🎁 Prêmios
 
-- 🥇 **1º Lugar:** prêmio surpresa + destaque oficial nas comunicações da 42 Rio.
-- 🥈 **2º Lugar:** menção honrosa e destaque na plataforma da comunidade.
+- 🥇 **1º Lugar:** premiação + sua ideia implementada na 42 rio.
+- 🥈 **2º Lugar:** tirante + sua ideia implementada na 42 rio.
 
 Além disso, as melhores soluções poderão ser **aplicadas oficialmente no campus**, com suporte do Núcleo de Inovação Aberta.
 
