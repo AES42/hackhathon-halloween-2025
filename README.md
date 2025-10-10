@@ -59,4 +59,5 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 ## 📅 Cronograma
 
 | Data | Hora | Atividade |
-|-------|------|-----------|
+|31/10| 18:00 | Início da festa de Halloween |
+|31/10| 21:00 | Abertura oficial e início do hackathon |
