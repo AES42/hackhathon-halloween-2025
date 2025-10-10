@@ -13,7 +13,7 @@ Essa trilha é voltada para quem quer propor novas experiências, plataformas e 
 | **Criatividade e Originalidade** | Inovação na proposta, na abordagem ou na forma de resolver o problema. |
 | **Relevância para a Comunidade** | O quanto a ideia responde a dores reais e melhora a experiência dos cadetes. |
 | **Usabilidade e Experiência** | Clareza, fluidez e potencial de adoção da solução. |
-| **Viabilidade e Impacto** | O quanto a proposta pode ser aplicada na prática ou expandida no futuro. |
+| **Viabilidade** | O quanto a proposta pode ser aplicada na prática ou expandida no futuro. |
 | **Apresentação** | Clareza, narrativa e impacto na entrega final (pitch). |
 
 > 💬 *Nesta trilha valorizamos criatividade, entendimento da comunidade e potencial de impacto coletivo.*

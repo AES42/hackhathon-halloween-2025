@@ -13,6 +13,7 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 
 | Critério | Descrição |
 |-----------|------------|
+| **Qualidade Técnica** | Qualidade do código e das soluções propostas. |
 | **Integração Técnica** | Nível de conexão entre sistemas e uso criativo de APIs, bots e automações. |
 | **Eficiência e Impacto** | Quanto a solução economiza tempo, reduz atritos ou melhora fluxos reais. |
 | **Estabilidade** | Clareza técnica, qualidade de código e viabilidade de manutenção. |
