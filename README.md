@@ -22,9 +22,6 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.
 Essa trilha é voltada para quem quer propor novas experiências, plataformas e ideias que ampliem o impacto da comunidade.
 
-### 💬 Exemplo de dor atual:
-- **Plataforma de Ideias:** muitas sugestões surgem em conversas informais e se perdem por falta de um espaço estruturado para propor, votar e acompanhar melhorias.
-
 🔗 **Leia mais sobre essa trilha:** [Trilha de Inovação — README](./open-innovation/README.md)
 
 ---
@@ -51,14 +48,6 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 
 ---
 
-## 📦 Como receber o prêmio
-
-- A equipe vencedora deverá indicar um representante para o recebimento.
-- O prêmio será entregue presencialmente no campus (ou conforme instrução oficial da equipe organizadora).
-- Em caso de projetos colaborativos de alto impacto, as equipes poderão ser convidadas a continuar o desenvolvimento com apoio da staff.
-
----
-
 ## 🧠 Diferença entre as Trilhas
 
 | Aspecto | **Composability** | **Inovação** |
@@ -67,15 +56,4 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 | **Natureza** | Técnica, voltada a automação e conectividade | Criativa, voltada à experiência e comunidade |
 | **Exemplo** | Bot de presença, automação de tickets, sincronização com Intra | Plataforma de ideias, IA de aprendizado, gamificação do progresso |
 | **Objetivo** | Melhorar fluxos internos e reduzir atritos operacionais | Gerar novas formas de engajamento, aprendizado e colaboração |
-
----
-
-## ✨ Conclusão
-
-As duas trilhas se complementam:
-- A **Composability** amplia o que já existe — criando pontes e automações dentro do ecossistema da 42.
-- A **Inovação** cria o novo — experiências, plataformas e ideias que transformam o modo como vivemos a escola.
-
-Ambas partem do mesmo princípio: **a 42 como um laboratório vivo de inovação**, onde cada cadete é criador de soluções reais.
-
----
+| **Público-alvo** | Estudantes, staff e administradores do campus | Toda a comunidade 42 Rio |

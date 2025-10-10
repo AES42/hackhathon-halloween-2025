@@ -1,4 +1,4 @@
-# ⚙️ Trilha 1 — Composability
+# ⚙️ Trilha — Composability
 
 Crie soluções que **se integrem com o ecossistema da 42**.
 Essa trilha é voltada para quem quer construir ferramentas, bots, automações ou sistemas que **conversem com as plataformas já existentes** (Intra, Discord, Starship, planilhas, etc.) e otimizem o funcionamento do campus.
