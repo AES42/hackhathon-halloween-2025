@@ -22,8 +22,10 @@ Essa trilha é voltada para quem quer propor novas experiências, plataformas e 
 
 ## 🏅 Também valorizaremos
 
-- Originalidade na proposta e experiência do usuário.  
-- Clareza na apresentação do problema e da solução.  
-- Capacidade de prototipar e comunicar o conceito.  
-- Valor prático e cultural para a comunidade 42.  
+- Originalidade na proposta e experiência do usuário.
+- Clareza na apresentação do problema e da solução.
+- Capacidade de prototipar e comunicar o conceito.
+- Valor prático e cultural para a comunidade 42.
 - Potencial de continuidade pós-hackathon (com ou sem apoio da staff).
+
+link de submissão: [https://forms.gle/HmkycTJCSUV9jty58](https://forms.gle/HmkycTJCSUV9jty58)

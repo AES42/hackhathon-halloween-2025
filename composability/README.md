@@ -21,12 +21,15 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 
 > 💬 *Nesta trilha valorizamos a engenharia, a integração e o uso inteligente das ferramentas existentes.*
 
+
 ---
 
 ## 🏅 Também valorizaremos
 
-- Uso real de dados, APIs ou integrações da 42.  
-- Criatividade na automação (soluções simples e elegantes).  
-- Capacidade de demonstrar algo funcional.  
-- Documentação clara e replicável (alguém conseguiria instalar/usar?).  
+- Uso real de dados, APIs ou integrações da 42.
+- Criatividade na automação (soluções simples e elegantes).
+- Capacidade de demonstrar algo funcional.
+- Documentação clara e replicável (alguém conseguiria instalar/usar?).
 - Impacto mensurável (tempo economizado, processos otimizados, etc).
+
+link de submissão: [https://forms.gle/HmkycTJCSUV9jty58](https://forms.gle/HmkycTJCSUV9jty58)
