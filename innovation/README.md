@@ -10,10 +10,10 @@ Essa trilha é voltada para quem quer propor novas experiências, plataformas e 
 
 | Critério | Descrição |
 |-----------|------------|
-| **Criatividade e Originalidade** | Inovação na proposta, na abordagem ou na forma de resolver o problema. |
-| **Relevância para a Comunidade** | O quanto a ideia responde a dores reais e melhora a experiência dos cadetes. |
+| **Demonstração Prática** | O quão funcional(próximo de um MVP) e demonstrável (mesmo que protótipo). |
 | **Usabilidade e Experiência** | Clareza, fluidez e potencial de adoção da solução. |
-| **Viabilidade** | O quanto a proposta pode ser aplicada na prática ou expandida no futuro. |
+| **Viabilidade e Impacto** | O quanto a proposta pode ser aplicada na prática ou expandida no futuro. |
+| **Relevância para a Comunidade** | O quanto a ideia responde a dores reais e melhora a experiência dos cadetes. |
 | **Apresentação** | Clareza, narrativa e impacto na entrega final (pitch). |
 
 > 💬 *Nesta trilha valorizamos criatividade, entendimento da comunidade e potencial de impacto coletivo.*
