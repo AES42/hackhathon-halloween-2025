@@ -69,5 +69,6 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 |02/11| 11:00 | touchpoint com mentores |
 |02/11| 18:00 | touchpoint com mentores |
 |02/11| 23:42 | Encerramento do envio de projetos |
+|04/11| 12:42 | Encerramento do envio das apresentações |
 |04/11| 19:00 | Início das apresentações finais |
 |04/11| 21:00 | Anúncio dos vencedores e encerramento do evento |
