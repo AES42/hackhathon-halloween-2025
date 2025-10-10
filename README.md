@@ -20,7 +20,7 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 Crie soluções **novas e criativas** que fortaleçam o aprendizado, a colaboração e a cultura da 42.
 Essa trilha é voltada para quem quer propor novas experiências, plataformas e ideias que ampliem o impacto da comunidade.
 
-🔗 **Leia mais sobre essa trilha:** [Trilha de Inovação — README](./open-innovation/README.md)
+🔗 **Leia mais sobre essa trilha:** [Trilha de Inovação — README](./innovation/README.md)
 
 ---
 
