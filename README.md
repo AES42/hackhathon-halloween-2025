@@ -55,3 +55,8 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 | **Exemplo** | Bot de presença, automação de tickets, sincronização com Intra | Plataforma de ideias, IA de aprendizado, gamificação do progresso |
 | **Objetivo** | Melhorar fluxos internos e reduzir atritos operacionais | Gerar novas formas de engajamento, aprendizado e colaboração |
 | **Público-alvo** | Estudantes, staff e administradores do campus | Toda a comunidade 42 Rio |
+
+## 📅 Cronograma
+
+| Data | Hora | Atividade |
+|-------|------|-----------|
