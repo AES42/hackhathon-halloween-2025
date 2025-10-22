@@ -13,7 +13,8 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 
 | Critério | Descrição |
 |-----------|------------|
-| **Qualidade Técnica** | Qualidade do código e das soluções propostas, **documentação**, histórico de commits, escalabilidade e manutenção. |
+| **Qualidade Técnica** | Qualidade do código e das soluções propostas. |
+| **ENTREGA MVP** | É funcional, possível de ser aplicado ou integrado no ambiente da 42 facilmente. |
 | **Integração Técnica** | Nível de conexão entre sistemas e uso criativo de APIs, bots e automações. |
 | **Eficiência e Impacto** | Quanto a solução economiza tempo, reduz atritos ou melhora fluxos reais. |
 | **Demonstração Prática** | O quão funcional(próximo de um MVP) e demonstrável (mesmo que protótipo). |
