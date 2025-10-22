@@ -1,4 +1,4 @@
-# Hackathon 42 Rio — Construindo o Futuro da Comunidade
+# 🎃 Hackathon 42 Rio — Construindo o Futuro da Comunidade
 
 O **Hackathon 42 Rio** tem como objetivo estimular a criação de soluções que fortaleçam o ecossistema da 42, tornando nossa escola um espaço vivo de experimentação, integração e inovação contínua.
 
