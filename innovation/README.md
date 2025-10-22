@@ -10,7 +10,8 @@ Essa trilha é voltada para quem quer propor novas experiências, plataformas e 
 
 | Critério | Descrição |
 |-----------|------------|
-| **Demonstração Prática** | O quão funcional(próximo de um MVP) e demonstrável (mesmo que protótipo). |
+| **Demonstração Prática** | O quão funcional e demonstrável (mesmo que protótipo). |
+| **ENTREGA MVP** | É funcional, possível de ser aplicado ou integrado no ambiente da 42 facilmente. |
 | **Usabilidade e Experiência** | Clareza, fluidez e potencial de adoção da solução. |
 | **Viabilidade e Impacto** | O quanto a proposta pode ser aplicada na prática ou expandida no futuro. |
 | **Relevância para a Comunidade** | O quanto a ideia responde a dores reais e melhora a experiência dos cadetes. |
