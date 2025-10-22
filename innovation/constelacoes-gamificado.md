@@ -65,3 +65,24 @@ premiacao_final:
   titulo: "Coroação da Constelação"
   recompensa: "Surpresa"
 ```
+
+## 🧩 Telas/Fluxos recomendados
+- **Visão Membro**: regras, pontuação da sua constelação, contribuições da semana, “o que falta para bater os 100 pts”.  
+- **Visão Staff**: ranking, filtros por semana, **auditoria** (como cada ponto foi composto), export.  
+- **Parciais de Sexta**: geração de resumo (Markdown/HTML) para copiar no canal + imagem do top-3 (opcional).
+
+## 🛡️ Importante
+- Regras **transparentes** e auditáveis (mostrar de onde veio cada ponto).
+- Anti-abuso simples: limites por semana, verificação de critérios (% do grupo), votos únicos por cadete no Voxotron.
+
+## 🧠 Avaliação
+
+| Critério | Descrição |
+|---|---|
+| **Impacto imediato** | Staff opera na primeira semana sem suporte extra. (40%) |
+| **Clareza das regras** | Configuração legível; auditoria simples. (25%) |
+| **UX para membros** | Entendem “o que fazer” para pontuar. (20%) |
+| **Robustez leve** | Export, logs mínimos, anti-abuso básico. (15%) |
+
+## ✅ Sucesso na demo
+Criar/editar regras → registrar uma semana de pontos → gerar **parcial de sexta** com top-3 → abrir **relatório por constelação** → exportar CSV.

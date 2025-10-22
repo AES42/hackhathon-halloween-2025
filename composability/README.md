@@ -9,6 +9,12 @@ Essa trilha é voltada para quem quer construir ferramentas, bots, automações 
 - **Horas de bolsistas e presença física:** o controle é feito apenas por logs, sem confirmação automática de permanência no campus.
 - **Documentação:** há uma página no Starship, mas parte das informações se perde. Reuniões importantes não são registradas — seria útil um bot que gravasse, resumisse e publicasse versões revisáveis em uma central.
 
+### 🧲 Temas sugeridos (fortes)
+- **Presença no Campus & Engajamento (Gamificado)** — _campus-first, visibilidade para Ops e motivação para cadetes._  
+  → [Ler o tema](./presenca-campus-gamificado.md)
+- **Sinais de Progresso em Projetos & Rotina (Grupos e Acompanhamento)** — _checkpoints semanais, saúde dos grupos e alertas simples._  
+  → [Ler o tema](./sinais-de-progresso-projetos.md)
+
 ## 🧠 O que será avaliado
 
 | Critério | Descrição |
