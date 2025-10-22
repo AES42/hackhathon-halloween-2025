@@ -32,7 +32,7 @@ Os projetos serão avaliados com base em quatro dimensões principais:
 |-----------|------------|
 | **Impacto** | Gera valor real para a comunidade e resolve uma dor concreta. |
 | **Inovação** | Apresenta originalidade na ideia ou na forma de execução. |
-| **Viabilidade Técnica** | É funcional, possível de ser aplicado ou integrado no ambiente da 42. |
+| **ENTREGA MVP** | É funcional, possível de ser aplicado ou integrado no ambiente da 42 facilmente. |
 | **Apresentação** | Clareza na explicação do problema, da solução e da demonstração final. |
 
 ---
@@ -60,8 +60,6 @@ Além disso, as melhores soluções poderão ser **aplicadas oficialmente no cam
 
 | Data | Hora | Atividade |
 |------|------|-----------|
-|31/10| 15:00 | Workshop sobre organização e idealização de projetos |
-|31/10| 17:00 | Papo tech sobre ferramentas e APIs disponíveis |
 |31/10| 18:00 | Início da festa de Halloween |
 |31/10| 21:00 | Abertura oficial e início do hackathon |
 |01/11| 11:00 | touchpoint com mentores |
